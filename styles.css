@@ -1,0 +1,13 @@
+Body{
+        Text-align: center;
+            Background-image: linear-gradient(green, silver);
+    }
+h1{
+        font-family: 'Dancing Script', cursive;
+    }
+img{
+            width: 750px;
+    }
+p{
+    font-family: 'Black And White Picture', sans-serif;
+    }
